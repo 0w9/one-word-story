@@ -1,7 +1,7 @@
 databases:
   - name: one-word-story
-    databaseName: one-word-story-db
-    user: one-word-story-user
+    databaseName: oneWordStoryDb
+    user: oneWordStoryUser
     plan: free
 
 services:
